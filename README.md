@@ -21,7 +21,7 @@ Length of hospital stay
 Treatment type
 Medications count
 Previous readmissions
-
 Insurance type
-
 Discharge disposition
+
+line app link:https://hospitalreadmissionriskapp-cytmd7eeb3uteswad25tnu.streamlit.app/
